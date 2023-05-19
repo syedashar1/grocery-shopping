@@ -2,6 +2,7 @@
 
 ## Installation
 root > cd app > npm i
+
 root > cd server > npm i 
 (use your own atlas DB_URL and good to go)
 
